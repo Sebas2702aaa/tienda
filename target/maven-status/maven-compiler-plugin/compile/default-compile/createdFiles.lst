@@ -1,0 +1,8 @@
+com\tienda\Desarrollo\controller\CategoriaController.class
+com\tienda\Desarrollo\ProjectConfig.class
+com\tienda\Desarrollo\repository\CategoriaRepository.class
+com\tienda\Desarrollo\service\FirebaseStorageService.class
+com\tienda\Desarrollo\StorageConfig.class
+com\tienda\Desarrollo\TiendaApplication.class
+com\tienda\Desarrollo\service\CategoriaService.class
+com\tienda\Desarrollo\domain\Categoria.class
